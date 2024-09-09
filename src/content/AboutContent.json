@@ -1,0 +1,16 @@
+{
+  "title": "Bus Shuttle Management",
+  "text": "Track bus locations in real-time and receive push notifications about departure times, ensuring you never miss a ride.",
+  "section": [
+    {
+      "title": "Advantage?",
+      "content": "Accessible exclusively to CMU email holders, ensuring secure use.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Advantage?",
+      "content": "Elimination of manual processes.",
+      "icon": "notes.svg"
+    }
+  ]
+}
