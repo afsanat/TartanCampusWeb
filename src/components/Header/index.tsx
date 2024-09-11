@@ -56,7 +56,6 @@ const Header = ({ t }: { t: TFunction }) => {
 
   return (
     <HeaderSection>
-      <Container>
         <Row justify="space-between">
           <LogoContainer to="/" aria-label="homepage">
             <SvgIcon src="TartanLogo.png" width="119px" height="80px" />
@@ -81,7 +80,6 @@ const Header = ({ t }: { t: TFunction }) => {
           </Col>
           <MenuItem />
         </Drawer>
-      </Container>
     </HeaderSection>
   );
 };
