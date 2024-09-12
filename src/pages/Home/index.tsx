@@ -30,14 +30,14 @@ const Home = () => {
         button={MiddleBlockContent.button}
       />
       <ContentBlock
-        direction="right"
+        direction="left"
         title={MissionContent.title}
         content={MissionContent.text}
         icon="collaboration.jpeg"
         id="mission"
       />
       <ContentBlock
-        direction="left"
+        direction="right"
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
