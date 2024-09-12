@@ -30,19 +30,19 @@ const Home = () => {
         button={MiddleBlockContent.button}
       />
       <ContentBlock
+        direction="right"
+        title={MissionContent.title}
+        content={MissionContent.text}
+        icon="collaboration.jpeg"
+        id="mission"
+      />
+      <ContentBlock
         direction="left"
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
         icon="schoolbus.jpg"
         id="about"
-      />
-      <ContentBlock
-        direction="right"
-        title={MissionContent.title}
-        content={MissionContent.text}
-        icon="cafetaria.jpg"
-        id="mission"
       />
       <ContentBlock
         direction="left"

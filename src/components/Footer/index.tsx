@@ -140,10 +140,6 @@ const Footer = ({ t }: { t: TFunction }) => {
             </p>
             <p className="mb-4">
               <a className="text-neutral-600 dark:text-neutral-200"
-              >cafetaria</a>
-            </p>
-            <p className="mb-4">
-              <a className="text-neutral-600 dark:text-neutral-200"
               >Bus Shuttle Management</a>
             </p>
             <p>
